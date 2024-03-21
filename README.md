@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/subhankar-sarkar-1251232a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saldjkfsd" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/subhankar-sarkar-1251232a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Subhankar Sarkar" height="30" width="40" /></a>
 <a href="https://instagram.com/subhankar_sarkar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhav" height="30" width="40" /></a>
 </p>
 
