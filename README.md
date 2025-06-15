@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS, Node JS**
 
-- 📫 How to reach me **subhankarsarkar50069@gmail.com**
+- 📫 How to reach me **subhankarsarkar0718@gmail.com**
 
 - ⚡ Fun fact **Hello World**
 
