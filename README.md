@@ -14,8 +14,6 @@
 - ⚡ Fun fact **Hello World**
 
 - 👀 I’m interested to explore new thing in Programming.
-
-- 💞️ I’m looking to collaborate on ...
   
 - 😄 Pronouns: He/Him
 
