@@ -41,6 +41,6 @@
 
 
 
-> “Code is poetry. Analytics is rhythm. Structure is harmony.”
+> “Code is poetry. Analytics is rhythm. Structure is harmony."
 
 Thanks for visiting 👀
