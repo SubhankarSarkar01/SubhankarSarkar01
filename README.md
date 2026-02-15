@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subh&label=Profile%20views&color=0e75b6&style=flat" alt="subh" /> </p>
 
 - 🌱 I’m currently learning **React JS, Node JS**
-
 - 📫 How to reach me **subhankarsarkar0718@gmail.com**
 
 - ⚡ Fun fact **Hello World**
