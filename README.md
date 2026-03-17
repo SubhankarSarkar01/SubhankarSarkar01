@@ -4,7 +4,6 @@
 <img src="https://komarev.com/ghpvc/?username=subh&label=Profile%20views&color=0e75b6&style=flat" alt="subh" /> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Node+Learner;DSA+Enthusiast;Always+Learning+New+Things" />
 </p>
-
 ---
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
